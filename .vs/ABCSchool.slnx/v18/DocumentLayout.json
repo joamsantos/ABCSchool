@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\src\\github\\ABCSchool\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F66DCE7-EEC6-4981-B4FE-B80EDC04E8AE}|src\\Infrastructure\\Infrastructure.csproj|f:\\src\\github\\abcschool\\src\\infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F66DCE7-EEC6-4981-B4FE-B80EDC04E8AE}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F66DCE7-EEC6-4981-B4FE-B80EDC04E8AE}|src\\Infrastructure\\Infrastructure.csproj|f:\\src\\github\\abcschool\\src\\infrastructure\\tenancy\\tenantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F66DCE7-EEC6-4981-B4FE-B80EDC04E8AE}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\tenancy\\tenantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F66DCE7-EEC6-4981-B4FE-B80EDC04E8AE}|src\\Infrastructure\\Infrastructure.csproj|f:\\src\\github\\abcschool\\src\\infrastructure\\tenancy\\abcschooltenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F66DCE7-EEC6-4981-B4FE-B80EDC04E8AE}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\tenancy\\abcschooltenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,6 +91,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Startup.cs",
+              "ToolTip": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Startup.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:35:43.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TenantDbContext.cs",
+              "DocumentMoniker": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
+              "ToolTip": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:33:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ABCSchoolTenantInfo.cs",
+              "DocumentMoniker": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
+              "ToolTip": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:30:15.257Z",
+              "EditorCaption": ""
             }
           ]
         },
