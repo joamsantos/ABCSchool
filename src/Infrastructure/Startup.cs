@@ -1,6 +1,7 @@
 ﻿using Finbuckle.MultiTenant.AspNetCore.Extensions;
 using Finbuckle.MultiTenant.EntityFrameworkCore.Extensions;
 using Finbuckle.MultiTenant.Extensions;
+using Infrastructure.Contexts;
 using Infrastructure.Tenancy;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
@@ -20,7 +21,9 @@ public static class Startup
                 .WithHeaderStrategy(TenancyConstants.TenantIdName)
                 .WithClaimStrategy(TenancyConstants.TenantIdName)
                 .WithEFCoreStore<TenantDbContext, ABCSchoolTenantInfo>()
-                .Services;
+                .Services
+            .AddDbContext<ApplicationDbContext>(options => options
+                .UseSqlServer(config.GetConnectionString("DefaultConnection")));
     }
 
     public static IApplicationBuilder UseInfrastructure(this IApplicationBuilder app)

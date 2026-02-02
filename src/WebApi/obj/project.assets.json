@@ -104,6 +104,23 @@
           }
         }
       },
+      "Finbuckle.MultiTenant.Identity.EntityFrameworkCore/10.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Finbuckle.MultiTenant.EntityFrameworkCore": "10.0.2",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "10.0.2"
+        },
+        "compile": {
+          "lib/net10.0/Finbuckle.MultiTenant.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/Finbuckle.MultiTenant.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authentication.OpenIdConnect/10.0.2": {
         "type": "package",
         "dependencies": {
@@ -641,6 +658,7 @@
           "Finbuckle.MultiTenant": "10.0.2",
           "Finbuckle.MultiTenant.AspNetCore": "10.0.2",
           "Finbuckle.MultiTenant.EntityFrameworkCore": "10.0.2",
+          "Finbuckle.MultiTenant.Identity.EntityFrameworkCore": "10.0.2",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "10.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.2"
         },
@@ -752,6 +770,21 @@
         "finbuckle.multitenant.entityframeworkcore.nuspec",
         "lib/net10.0/Finbuckle.MultiTenant.EntityFrameworkCore.dll",
         "lib/net10.0/Finbuckle.MultiTenant.EntityFrameworkCore.xml"
+      ]
+    },
+    "Finbuckle.MultiTenant.Identity.EntityFrameworkCore/10.0.2": {
+      "sha512": "gLN4SAiizuLK7ANTVB8C1hJ/FOZHkskXeJ4R1zHWLpr6t2XtJcwy1XJOwdC0q0oiiyIqhklJuqoRBTeRP80TfA==",
+      "type": "package",
+      "path": "finbuckle.multitenant.identity.entityframeworkcore/10.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NUGET_README.md",
+        "finbuckle-128x128.png",
+        "finbuckle.multitenant.identity.entityframeworkcore.10.0.2.nupkg.sha512",
+        "finbuckle.multitenant.identity.entityframeworkcore.nuspec",
+        "lib/net10.0/Finbuckle.MultiTenant.Identity.EntityFrameworkCore.dll",
+        "lib/net10.0/Finbuckle.MultiTenant.Identity.EntityFrameworkCore.xml"
       ]
     },
     "Microsoft.AspNetCore.Authentication.OpenIdConnect/10.0.2": {
@@ -1425,23 +1458,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JoãoSantos\\.nuget\\packages\\": {},
+    "C:\\Users\\joams\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\private\\ABCSchool\\src\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "F:\\src\\github\\ABCSchool\\src\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\src\\private\\ABCSchool\\src\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\JoãoSantos\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\private\\ABCSchool\\src\\WebApi\\obj\\",
+      "projectPath": "F:\\src\\github\\ABCSchool\\src\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\joams\\.nuget\\packages\\",
+      "outputPath": "F:\\src\\github\\ABCSchool\\src\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JoãoSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joams\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1457,8 +1490,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj"
+            "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
