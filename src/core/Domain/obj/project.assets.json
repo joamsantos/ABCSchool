@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joams\\.nuget\\packages\\": {},
+    "C:\\Users\\JoãoSantos\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\joams\\.nuget\\packages\\",
-      "outputPath": "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\obj\\",
+      "projectPath": "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\JoãoSantos\\.nuget\\packages\\",
+      "outputPath": "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\joams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JoãoSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

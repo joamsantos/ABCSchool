@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\src\\github\\ABCSchool\\src\\WebApi\\WebApi.csproj": {}
+    "C:\\src\\private\\ABCSchool\\src\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Application.csproj": {
+    "C:\\src\\private\\ABCSchool\\src\\core\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\src\\private\\ABCSchool\\src\\core\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\joams\\.nuget\\packages\\",
-        "outputPath": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\obj\\",
+        "projectPath": "C:\\src\\private\\ABCSchool\\src\\core\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\JoãoSantos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\private\\ABCSchool\\src\\core\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\joams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoãoSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\Domain.csproj"
+              "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\Domain.csproj"
               }
             }
           }
@@ -348,20 +348,20 @@
         }
       }
     },
-    "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\Domain.csproj": {
+    "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\joams\\.nuget\\packages\\",
-        "outputPath": "F:\\src\\github\\ABCSchool\\src\\core\\Domain\\obj\\",
+        "projectPath": "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\JoãoSantos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\private\\ABCSchool\\src\\core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\joams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoãoSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -688,20 +688,20 @@
         }
       }
     },
-    "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\joams\\.nuget\\packages\\",
-        "outputPath": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\obj\\",
+        "projectPath": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\JoãoSantos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\joams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoãoSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -717,8 +717,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Application.csproj": {
-                "projectPath": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Application.csproj"
+              "C:\\src\\private\\ABCSchool\\src\\core\\Application\\Application.csproj": {
+                "projectPath": "C:\\src\\private\\ABCSchool\\src\\core\\Application\\Application.csproj"
               }
             }
           }
@@ -1060,20 +1060,20 @@
         }
       }
     },
-    "F:\\src\\github\\ABCSchool\\src\\WebApi\\WebApi.csproj": {
+    "C:\\src\\private\\ABCSchool\\src\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\src\\github\\ABCSchool\\src\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\src\\private\\ABCSchool\\src\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "F:\\src\\github\\ABCSchool\\src\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\joams\\.nuget\\packages\\",
-        "outputPath": "F:\\src\\github\\ABCSchool\\src\\WebApi\\obj\\",
+        "projectPath": "C:\\src\\private\\ABCSchool\\src\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\JoãoSantos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\private\\ABCSchool\\src\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\joams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JoãoSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1089,8 +1089,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "F:\\src\\github\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
