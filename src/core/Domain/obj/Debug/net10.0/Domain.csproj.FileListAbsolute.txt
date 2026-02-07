@@ -1,0 +1,12 @@
+F:\src\github\ABCSchool\src\core\Domain\bin\Debug\net10.0\Domain.deps.json
+F:\src\github\ABCSchool\src\core\Domain\bin\Debug\net10.0\Domain.dll
+F:\src\github\ABCSchool\src\core\Domain\bin\Debug\net10.0\Domain.pdb
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\Domain.dll
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\refint\Domain.dll
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\Domain.pdb
+F:\src\github\ABCSchool\src\core\Domain\obj\Debug\net10.0\ref\Domain.dll

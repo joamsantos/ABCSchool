@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\src\\private\\ABCSchool\\",
+  "WorkspaceRootPath": "F:\\src\\github\\ABCSchool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\src\\private\\abcschool\\src\\infrastructure\\identity\\models\\applicationroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\models\\applicationroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{018D89FD-2F13-DA0D-EA7A-4C78767AEC3C}|src\\core\\Application\\Application.csproj|f:\\src\\github\\abcschool\\src\\core\\application\\wrappers\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018D89FD-2F13-DA0D-EA7A-4C78767AEC3C}|src\\core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\wrappers\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\src\\private\\abcschool\\src\\infrastructure\\identity\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\src\\private\\abcschool\\src\\infrastructure\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\src\\private\\abcschool\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\src\\private\\abcschool\\src\\infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\src\\private\\abcschool\\src\\infrastructure\\tenancy\\tenantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\tenancy\\tenantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\src\\private\\abcschool\\src\\infrastructure\\tenancy\\tenancyconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\tenancy\\tenancyconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\src\\private\\abcschool\\src\\infrastructure\\tenancy\\abcschooltenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\tenancy\\abcschooltenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{018D89FD-2F13-DA0D-EA7A-4C78767AEC3C}|src\\core\\Application\\Application.csproj|f:\\src\\github\\abcschool\\src\\core\\application\\wrappers\\iresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018D89FD-2F13-DA0D-EA7A-4C78767AEC3C}|src\\core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\wrappers\\iresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -115,105 +91,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationRoleClaim.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Identity\\Models\\ApplicationRoleClaim.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\Models\\ApplicationRoleClaim.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Identity\\Models\\ApplicationRoleClaim.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Identity\\Models\\ApplicationRoleClaim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "ResponseWrapper.cs",
+              "DocumentMoniker": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Wrappers\\ResponseWrapper.cs",
+              "RelativeDocumentMoniker": "src\\core\\Application\\Wrappers\\ResponseWrapper.cs",
+              "ToolTip": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Wrappers\\ResponseWrapper.cs",
+              "RelativeToolTip": "src\\core\\Application\\Wrappers\\ResponseWrapper.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:56:47.091Z",
+              "WhenOpened": "2026-02-07T21:32:43.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Identity\\Models\\ApplicationRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Title": "IResponseWrapper.cs",
+              "DocumentMoniker": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Wrappers\\IResponseWrapper.cs",
+              "RelativeDocumentMoniker": "src\\core\\Application\\Wrappers\\IResponseWrapper.cs",
+              "ToolTip": "F:\\src\\github\\ABCSchool\\src\\core\\Application\\Wrappers\\IResponseWrapper.cs",
+              "RelativeToolTip": "src\\core\\Application\\Wrappers\\IResponseWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:56:18.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Identity\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Identity\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Identity\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T09:53:41.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\WebApi\\Program.cs",
-              "RelativeToolTip": "src\\WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:38:34.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TenancyConstants.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Tenancy\\TenancyConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:36:22.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Startup.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Startup.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Startup.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T23:35:43.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TenantDbContext.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Tenancy\\TenantDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T23:33:14.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ABCSchoolTenantInfo.cs",
-              "DocumentMoniker": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
-              "ToolTip": "C:\\src\\private\\ABCSchool\\src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Tenancy\\ABCSchoolTenantInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T23:30:15.257Z",
+              "WhenOpened": "2026-02-07T21:31:12.013Z",
               "EditorCaption": ""
             }
           ]
