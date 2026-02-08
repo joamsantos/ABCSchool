@@ -126,7 +126,8 @@ public class TokenService : ITokenService
 
     private async Task<string> GenerateToken(ApplicationUser user)
     {
-        return GenerateEncryptedToken(GenerateSigningCredentials(), await GetUserClaims(user));
+        var userClaims = await GetUserClaims(user);
+        return GenerateEncryptedToken(GenerateSigningCredentials(), userClaims);
     }
 
     private string GenerateEncryptedToken(SigningCredentials signingCredentials, IEnumerable<Claim> claims)
