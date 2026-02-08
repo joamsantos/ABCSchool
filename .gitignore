@@ -1,0 +1,58 @@
+# --- Visual Studio local caches / state ---
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains (optional if you use it)
+.idea/
+*.iml
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults/
+*.VisualState.xml
+*.cache
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.tlog
+*.lastbuildstate
+
+# NuGet, packages & lock files
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# MSBuild / design-time build caches
+*.binlog
+.project
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Database / local tools
+*.dbmdl
+*.opendb
+*.vssscc
+*.vspscc
+
+# Resharper / other analyzers
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Node / front-end (if present)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
