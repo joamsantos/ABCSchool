@@ -1,4 +1,3 @@
-
 using Infrastructure;
 
 namespace WebApi;
@@ -12,8 +11,7 @@ public class Program
         // Add services to the container.
 
         builder.Services.AddControllers();
-        builder.Services.AddOpenApi();
-
+        
         builder.Services.AddInfrastructureServices(builder.Configuration);
 
         builder.Services.AddJwtAuthentication(builder.Services.GetJwtSettings(builder.Configuration));
@@ -23,15 +21,7 @@ public class Program
         // Database Seeder
         await app.Services.AddDatabaseInitializerAsync();
 
-        // Configure the HTTP request pipeline.
-        if (app.Environment.IsDevelopment())
-        {
-            app.MapOpenApi();
-        }
-
         app.UseHttpsRedirection();
-
-        app.UseAuthorization();
 
         app.UseInfrastructure();
 
