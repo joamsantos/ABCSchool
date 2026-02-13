@@ -1,5 +1,6 @@
 using Application;
 using Infrastructure;
+using WebApi.Middlewares;
 
 namespace WebApi;
 
@@ -27,6 +28,8 @@ public class Program
         app.UseHttpsRedirection();
 
         app.UseInfrastructure();
+
+        app.UseMiddleware<ErrorHandlingMiddleware>();
 
         app.MapControllers();
 

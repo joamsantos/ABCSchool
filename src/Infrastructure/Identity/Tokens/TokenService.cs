@@ -172,8 +172,7 @@ public class TokenService : ITokenService
             new(ClaimTypes.Email, user.Email),
             new(ClaimTypes.Name, user.FirstName),
             new(ClaimTypes.Surname, user.LastName),
-            new(ClaimConstants.Tenant, _tenantContextAccessor.MultiTenantContext.TenantInfo.Id),
-            new(ClaimTypes.MobilePhone, user.PhoneNumber)
+            new(ClaimConstants.Tenant, _tenantContextAccessor.MultiTenantContext.TenantInfo.Id)
         }
         .Union(roleClaims)
         .Union(userClaims)
