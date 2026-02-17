@@ -56,7 +56,7 @@ public class ErrorHandlingMiddleware
 
                 default:
                     response.StatusCode = (int)HttpStatusCode.InternalServerError;
-                    responseWrapper.Messages = ["Something went wrong. Contact Administrator."];
+                    responseWrapper.Messages = [ex.Message];
                     break;
             }
 

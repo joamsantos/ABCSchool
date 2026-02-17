@@ -19,7 +19,7 @@ public class UpdateTenantSubscriptionCommandHandler : IRequestHandler<UpdateTena
     
     public async Task<IResponseWrapper> Handle(UpdateTenantSubscriptionCommand request, CancellationToken cancellationToken)
     {
-        var tenantId = await _tenantService.UpdateSubscriptionAsync(request.UpdateTenantSubscription.TenantId, cancellationToken);
+        var tenantId = await _tenantService.UpdateSubscriptionAsync(request.UpdateTenantSubscription, cancellationToken);
         return await ResponseWrapper<string>.SuccessAsync(data: tenantId, "Tenant subscription update successful.");
     }
 }

@@ -17,9 +17,4 @@
     <PackageReference Include="MediatR" Version="14.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\Tenancy\Commands\" />
-    <Folder Include="Features\Tenancy\Queries\" />
-  </ItemGroup>
-
 </Project>
