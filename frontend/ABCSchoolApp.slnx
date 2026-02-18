@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Infrastructure/Infrastructure.csproj" />
+    <Project Path="src/WebApp/WebApp.csproj" Id="fbbd4612-0519-42b1-b96e-87bec03f3689" />
+  </Folder>
+</Solution>
